@@ -15,6 +15,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.DS_Store
+
 dance-moves/images
 dance-moves/generated_images
 dance-moves/video
